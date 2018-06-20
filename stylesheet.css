@@ -42,3 +42,7 @@ article		{background-color: #ffffff;
 		margin-right: auto;
 		padding-left: 30px;
 		padding-right: 30px}
+
+a		{color: #000000}
+
+a:hover		{text-decoration:underline;}
