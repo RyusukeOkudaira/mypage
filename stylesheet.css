@@ -3,47 +3,52 @@
 
 
 
-body		{font-family:'Roboto',
-		'Arial',
-		'Noto Sans JP',
-		'メイリオ',
-		'Hiragino Kaku Gothic Pro',
-		sans-serif;
-		font-weight: 300;
-		background-color: #ffffff;
-		margin:0}
+body			{font-family:'Roboto',
+			'Arial',
+			'Noto Sans JP',
+			'メイリオ',
+			'Hiragino Kaku Gothic Pro',
+			sans-serif;
+			font-weight: 300;
+			background-color: #ffffff;
+			margin:0}
 
-h1		{font-size: 30px;
-		font-weight: 300;
-		margin-bottom: 0}
+h1			{font-size: 30px;
+			font-weight: 300;
+			margin-bottom: 0}
 
-h2		{font-weight: 300;
-		margin-bottom: 0;}
+h2			{font-weight: 300;
+			margin-bottom: 0;}
 
-p		{line-height: 1.5;
-		//margin-top: 10px;}
+p			{line-height: 1.5;
+			//margin-top: 10px;}
 
-header		{background-color: #ffffff;
-		margin-top: 0px;
-		margin-left: 10px;
-		margin-right: 10px;
-		padding-left: 5px;
-		border-bottom: solid 1px #aaaaaa}
+header			{background-color: #ffffff;
+			margin-top: 0px;
+			margin-left: 10px;
+			margin-right: 10px;
+			padding-left: 5px;
+			border-bottom: solid 1px #aaaaaa}
 
-footer		{width: 900px;
-		margin-left: auto;
-		margin-right: auto;
-		padding-left: 30px;
-		padding-right: 30px}
+header h1 a		{color: #000000;
+			text-decoration: none;}
 
-article		{background-color: #ffffff;
-		width: 900px;
-		margin-left: auto;
-		margin-right: auto;
-		padding-left: 30px;
-		padding-right: 30px}
+header h1 a:hover	{color: #000000;}
 
-a		{color: #000000;
-		text-decoration: none;}
+footer			{width: 900px;
+			margin-left: auto;
+			margin-right: auto;
+			padding-left: 30px;
+			padding-right: 30px}
 
-a:hover		{text-decoration: underline;}
+article			{background-color: #ffffff;
+			width: 900px;
+			margin-left: auto;
+			margin-right: auto;
+			padding-left: 30px;
+			padding-right: 30px}
+
+a			{color: #000000;
+			text-decoration: none;}
+
+a:hover			{text-decoration: underline;}
